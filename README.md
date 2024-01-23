@@ -1,2 +1,3 @@
-# RoseNet
-Submission for RoseHack 2024 @ UCR
+## RoseNet
+# Submission for RoseHack 2024 @ UCR
+# personal chatbot AI
